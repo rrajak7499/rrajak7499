@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [project page link](project page link)
 
-- 💬 Ask me about **React**, **Next**, **Tailwind**
+- 💬 Ask me about **React.js, Next.js, Tailwind CSS**
 
 - 📫 How to reach me **rrajak7499@gmail.com**
 
