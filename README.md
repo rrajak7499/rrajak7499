@@ -1,31 +1,13 @@
-### Hi there 👋
-
-
-**rrajak7499/rrajak7499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
 <h1 align="center">Hi 👋, I'm Rohit Kumar Rajak</h1>
 <h3 align="center">A passionate full stack developer from India. I would love to make amazing web applications using React/Next.JS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrajak7499&label=Profile%20views&color=0e75b6&style=flat" alt="rrajak7499" /> </p>
 
-- 🌱 I’m currently learning **tailwind,**
+- 🔭 I’m currently learning **React.JS,**
 
 - 👨‍💻 All of my projects are available at [project page link](project page link)
 
-- 💬 Ask me about **react, next, tailwind**
+- 💬 Ask me about **React**, **Next**, **Tailwind**
 
 - 📫 How to reach me **rrajak7499@gmail.com**
 
