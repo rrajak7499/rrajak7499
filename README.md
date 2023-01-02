@@ -21,6 +21,15 @@
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
+\begin{table}[]
+\begin{tabular}{lllll}
+sadfaddfdasf & asdfdasfsdafsad &  &  &  \\
+sadfasdf     & sadfasf         &  &  &  \\
+sadfadsf     & dafadsf         &  &  &  \\
+sadfsadf     & dfsafas         &  &  & 
+\end{tabular}
+\end{table}
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
