@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kr.</h1>
 <h3 align="center">A passionate full stack developer from India. I would love to make amazing web applications using React/Next.JS.</h3>
-<script src="https://cdn.tailwindcss.com"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrajak7499&label=Profile%20views&color=0e75b6&style=flat" alt="rrajak7499" /> </p>
 
@@ -42,6 +41,3 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrajak7499&show_icons=true&locale=en&layout=compact" alt="rrajak7499" /></p>
-<h1 class="text-3xl font-bold ">
-    Hello world!
-  </h1>
