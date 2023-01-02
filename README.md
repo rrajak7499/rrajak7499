@@ -42,6 +42,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrajak7499&show_icons=true&locale=en&layout=compact" alt="rrajak7499" /></p>
-<h1 class="text-3xl font-bold underline">
+<h1 class="text-3xl font-bold ">
     Hello world!
   </h1>
